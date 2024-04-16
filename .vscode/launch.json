@@ -6,10 +6,38 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicProgram2",
+            "request": "launch",
+            "mainClass": "BasicProgram2",
+            "projectName": "ICS3U1_Lesson_3_5_MainMethod_8a82b00d"
+        },
+        {
+            "type": "java",
+            "name": "ArgsExample",
+            "request": "launch",
+            "mainClass": "ArgsExample",
+            "projectName": "ICS3U1_Lesson_3_5_MainMethod_8a82b00d"
+        },
+        {
+            "type": "java",
+            "name": "BasicProgram",
+            "request": "launch",
+            "mainClass": "BasicProgram",
+            "projectName": "ICS3U1_Lesson_3_5_MainMethod_8a82b00d"
+        },
+        {
+            "type": "java",
+            "name": "NoTrainingWheels",
+            "request": "launch",
+            "mainClass": "NoTrainingWheels",
+            "projectName": "ICS3U1_Lesson_3_5_MainMethod_8a82b00d"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": "ConsoleProgram",
             "args": "${command:SpecifyProgramArgs}"
-        },
+        }
     ]
 }
